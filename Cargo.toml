@@ -3,5 +3,7 @@ name = "wesm"
 version = "0.0.1"
 authors = ["Richard Anaya"]
 edition = "2018"
+description = "An interpreter for a subset of web assembly for embedded"
+license = "MIT"
 
 [dependencies]
